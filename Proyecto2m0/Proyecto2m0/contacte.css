@@ -1,0 +1,133 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.body{
+   margin: 0;
+   padding: 0; 
+}
+
+
+.contactans{
+    padding: 100px;
+    margin-bottom: 1em;
+    font-size: 2.5em;
+    background: url(img/201711021714456954Contact-us.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-image: no-repeat;
+}
+
+.cont1 h1{
+    margin-top: 60px;
+    width: 100%;
+    font-size: 80px;
+    color: white;
+    font-weight: normal;
+}
+
+.titulo h1{
+    font-size: 40px;
+    color: #06c0e8;
+    font-weight: 700px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+.titulo h4{
+    font-size: 35px;
+    font-weight: 300;
+    color: #06c0e8;
+    font-family: inherit;
+    text-align: center;
+
+}   
+
+.titulo h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 200;
+    color: #555555; 
+    text-align: center;
+    position: relative;
+    top: 15px;
+}
+
+.map1 iframe{
+    height: 290px;
+    position: relative;
+    left: 50%;
+    top: -545px;
+}
+
+.contactinfo ul{
+    background-color: #252628;
+    width: 600px;
+    height: 290px;
+    margin: auto;
+    position: relative;
+    left: 300px;
+    top: -540px;
+}
+
+.contactinfo ul p{
+    color: white;
+    font-size: 16px;
+    font-weight: 400px;
+    margin: 0px;
+}
+
+.contactinfo ul i{
+    border-radius: 50%;
+    border: 1px solid #d83030;
+    color: #ffffff;
+    font-size: 15px;
+    text-align: center;
+    background: #d83030;
+}
+
+.contactinfo ul i{
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.contactinfo .phone p{
+    position: absolute;
+    left: 80px;
+    top: 30px;
+}
+
+.contactinfo .phone .p2 p{
+    position: absolute;
+    left: 205px;
+}
+
+.contactinfo .mail p{
+    position: absolute;
+    left: 80px;
+    margin-top: -35px;
+}
+
+.contactinfo .ubicacion p{
+    position: absolute;
+    left: 80px;
+    margin-top: -35px
+}
+
+.contactinfo .transport p{
+    position: absolute;
+    left: 80px;
+    margin-top: -50px
+}
+
+
+.contactinfo .transport .p3 p{
+    position: absolute;
+    left: 80px;
+    margin-top: -20px
+}
