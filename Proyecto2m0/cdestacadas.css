@@ -12,6 +12,16 @@
     background-attachment: fixed;
 }
 
+
+.c-destacadas h1{
+    font-size: 50px;
+    color: white;
+    display: flex;
+    height: 46vh;
+    align-items: center;
+    justify-content: center;
+}
+
 .c-planeadas2{
     font-size: 25px;
     color: white;
@@ -149,6 +159,8 @@ input#rate-5:checked ~ label{
     transition: all 0.2s ease;
 }
 
+
+
 .estrellas form textarea{
     height: 100px;
     width: 100%;
@@ -205,15 +217,31 @@ input#rate-5:checked ~ label{
 }
 
 .card2{
-	background-image: url(img/nafsu.PNG);
+	background-image: url(img/david.jfif);
 	background-size: cover;
+}
+
+.card2 p{
+    color: white;
+    font-size: 30px;
+    position: relative;
+    top: 130px;
+    left: 15px;  
 }
 
 .card3{
-	background-image: url(img/nafsu.PNG);
-	background-size: cover;
+	background-image: url(img/pepita.jpg);
+    background-size: cover;
+    background-position: center;
 }
 
+.card3 p{
+    color: white;
+    font-size: 30px;
+    position: relative;
+    top: 130px;
+    left: 15px; 
+}
 
 .sec2{
     font-size: 25px;

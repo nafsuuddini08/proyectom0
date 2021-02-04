@@ -12,10 +12,14 @@
     background-image: no-repeat;
 }
 
-/*.c-planeadas h1{
-    font-size: 60px; 
-    color: white;   
-}*/
+.c-planeadas h1{
+    font-size: 50px; 
+    color: white; 
+    display: flex;
+    height: 39vh;
+    align-items: center;
+    justify-content: center;
+}
 
 .title1 h3{
     background-color: rgb(31, 30, 30);
